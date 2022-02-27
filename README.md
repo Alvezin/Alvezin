@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @Alvezin
-- 👀 I’m interested in JavaScript
-- 🌱 I’m currently learning HTML5 and CSS
-- 📫 How to reach me: alvezinho.gabs@gmail.com
-
-<!---
-Alvezin/Alvezin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ _Olá visitante, tudo bem?_ ⚡
+ 
+ _Me chamo Gabriel Alves e esse é o meu perfil!_ 🥇
+ 
+ _Tenho conhecimento em:_
+ >HTML; 📙
+ >CSS; 📘
+ 
+ _Agora estou focando na linguagem JavaScript_ 💛
+ 
+ _Tenho alguns projetos simples em Python, que você pode checar no meu repositório_ 📗
