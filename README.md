@@ -9,3 +9,6 @@
  _Agora estou focando na linguagem JavaScript_ 💛
  
  _Tenho alguns projetos simples em Python, que você pode checar no meu repositório_ 📗
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alvezin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
