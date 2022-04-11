@@ -7,7 +7,7 @@
  >CSS; 📘
  >JS; 🟨
  
- _Agora estou focando em Vue.JS_ 💛
+ _Agora estou focando em Vue.JS_ 📚
  
  _Tenho alguns projetos simples em Python, que você pode checar no meu repositório_ 📗
 
