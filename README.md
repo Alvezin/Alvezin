@@ -5,8 +5,9 @@
  _Tenho conhecimento em:_
  >HTML; 📙
  >CSS; 📘
+ >JS; 🟨
  
- _Agora estou focando na linguagem JavaScript_ 💛
+ _Agora estou focando em Vue.JS_ 💛
  
  _Tenho alguns projetos simples em Python, que você pode checar no meu repositório_ 📗
 
