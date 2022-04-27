@@ -6,6 +6,7 @@
  >HTML; 📙
  >CSS; 📘
  >JS; 🟨
+ >Vue.JS; 📗
  
  _Agora estou focando em Vue.JS_ 📚
  
