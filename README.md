@@ -5,6 +5,7 @@
  _Tenho conhecimento em:_
  >HTML; 📙
  >CSS; 📘
+ >SASS; 🖌️
  >JS; 🟨
  >Vue.JS; 📗
  
