@@ -1,16 +1,18 @@
- _Olá visitante, tudo bem?_ ⚡
+<h1><em>Olá visitante, tudo bem? ⚡</em></h1>
  
- _Me chamo Gabriel Alves e esse é o meu perfil!_ 🥇
  
- _Tenho conhecimento em:_
- >HTML; 📙
- >CSS; 📘
- >SASS; 🖌️
- >JS; 🟨
- >Vue.JS; 📗
  
- _Agora estou focando em Vue.JS_ 📚
+ <h2><em>Me chamo Gabriel Alves e esse é o meu perfil!</em></h2> 🥇
+
+MINHA PRINCIPAL STACK:
+<ul>
+ <li>SASS; 🖌️</li>
+ <li>Vue.JS; 📗</li>
  
- _Tenho alguns projetos simples em Python, que você pode checar no meu repositório_ 📗
+ <br>
+ 
+ >Situação: focando em node.JS 📚
+ 
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alvezin&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
